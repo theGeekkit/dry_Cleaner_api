@@ -1,0 +1,18 @@
+databases:
+  - name: dry_Cleaner_api-db
+    databaseName: dry_Cleaner_api
+    user: hFalkenrath
+
+services:
+  - type: web
+    name: dry_Cleaner_api
+    env: ruby
+    buildCommand: "./bin/render-build.sh"
+    startCommand: "bundle exec puma -C config/puma.rb"
+    envVars:
+      - key: DATABASE_URL
+        fromDatabase:
+          name: dry_Cleaner_api
+          property: connectionString
+      - key: RAILS_MASTER_KEY
+        sync: false
