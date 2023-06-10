@@ -1,0 +1,28 @@
+2023-06-10 10:15:25.455 [info] Log level: Info
+2023-06-10 10:15:25.455 [info] Validating found git in: "C:\Program Files\Git\cmd\git.exe"
+2023-06-10 10:15:25.455 [info] Using git "2.37.2.windows.2" from "C:\Program Files\Git\cmd\git.exe"
+2023-06-10 10:15:36.989 [info] > git rev-parse --show-toplevel [64ms]
+2023-06-10 10:15:37.143 [info] > git rev-parse --show-toplevel [52ms]
+2023-06-10 10:15:47.440 [info] > git rev-parse --show-toplevel [45ms]
+2023-06-10 10:15:47.478 [info] > git rev-parse --git-dir --git-common-dir [33ms]
+2023-06-10 10:15:47.486 [info] Open repository: c:\Users\sonof\OneDrive\Documents\GitHub\dry_Cleaner_api
+2023-06-10 10:15:47.533 [info] > git config --get commit.template [36ms]
+2023-06-10 10:15:47.542 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [37ms]
+2023-06-10 10:15:47.597 [info] > git status -z -uall --find-renames=50% [50ms]
+2023-06-10 10:15:47.659 [info] > git config --get commit.template [35ms]
+2023-06-10 10:15:47.678 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [35ms]
+2023-06-10 10:15:47.750 [info] > git status -z -uall --find-renames=50% [67ms]
+2023-06-10 10:15:47.955 [info] > git config --local branch.master.github-pr-owner-number [37ms]
+2023-06-10 10:15:47.995 [info] > git config --get commit.template [35ms]
+2023-06-10 10:15:48.004 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [40ms]
+2023-06-10 10:15:48.039 [info] > git check-ignore -v -z --stdin [36ms]
+2023-06-10 10:15:48.061 [info] > git status -z -uall --find-renames=50% [54ms]
+2023-06-10 10:15:48.483 [info] > git show --textconv :config/credentials.yml.enc [46ms]
+2023-06-10 10:15:48.484 [info] > git ls-files --stage -- C:\Users\sonof\OneDrive\Documents\GitHub\dry_Cleaner_api\config\credentials.yml.enc [41ms]
+2023-06-10 10:15:48.523 [info] > git cat-file -s da2016f2639a49a03a24106e5bed71a7872edd8c [34ms]
+2023-06-10 10:15:49.203 [info] > git config --get commit.template [51ms]
+2023-06-10 10:15:49.209 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [46ms]
+2023-06-10 10:15:49.261 [info] > git status -z -uall --find-renames=50% [48ms]
+2023-06-10 10:15:54.325 [info] > git config --get commit.template [38ms]
+2023-06-10 10:15:54.327 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [35ms]
+2023-06-10 10:15:54.382 [info] > git status -z -uall --find-renames=50% [50ms]

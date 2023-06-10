@@ -1,0 +1,6 @@
+2023-06-10 10:15:15.202 [info] update#setState idle
+2023-06-10 10:15:16.898 [info] WSL is not installed, so could not detect WSL profiles
+2023-06-10 10:15:22.407 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-10 10:15:45.209 [info] update#setState checking for updates
+2023-06-10 10:15:45.279 [info] update#setState idle
+2023-06-10 10:16:03.920 [info] Extension host with pid 28276 exited with code: 0, signal: unknown.

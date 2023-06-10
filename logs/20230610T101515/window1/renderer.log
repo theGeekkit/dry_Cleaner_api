@@ -1,0 +1,10 @@
+2023-06-10 10:15:16.060 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/C:/Users/sonof/OneDrive/Documents/GitHub/dry_Cleaner_api/config/credentials.yml.enc","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-06-10 10:15:19.052 [error] [Extension Host] (node:28276) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `Code --trace-deprecation ...` to show where the warning was created)
+2023-06-10 10:15:19.288 [error] SyntaxError: Unexpected token 'A', "AQAAANCMnd"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at e.MainThreadSecretState.$getPassword (vscode-file://vscode-app/c:/Users/sonof/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1528:29926)
+2023-06-10 10:15:19.342 [error] SyntaxError: Unexpected token 'A', "AQAAANCMnd"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at e.MainThreadSecretState.$getPassword (vscode-file://vscode-app/c:/Users/sonof/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1528:29926)
+2023-06-10 10:15:19.719 [info] [perf] Render performance baseline is 29ms

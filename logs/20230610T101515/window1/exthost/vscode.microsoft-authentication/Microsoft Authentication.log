@@ -1,0 +1,10 @@
+2023-06-10 10:15:19.293 [info] Reading sessions from secret storage...
+2023-06-10 10:15:19.343 [error] Error: Unable to parse decrypted password
+    at e.MainThreadSecretState.$getPassword (vscode-file://vscode-app/c:/Users/sonof/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1528:30078)
+2023-06-10 10:15:19.343 [error] Error: Unable to parse decrypted password
+    at e.MainThreadSecretState.$getPassword (vscode-file://vscode-app/c:/Users/sonof/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1528:30078)
+2023-06-10 10:15:19.343 [info] Got 0 stored sessions
+2023-06-10 10:15:19.344 [info] Getting sessions for all scopes...
+2023-06-10 10:15:19.344 [info] Got 0 sessions for all scopes...
+2023-06-10 10:15:19.345 [info] Getting sessions for the following scopes: email offline_access openid profile
+2023-06-10 10:15:19.345 [info] Got 0 sessions for scopes: email offline_access openid profile

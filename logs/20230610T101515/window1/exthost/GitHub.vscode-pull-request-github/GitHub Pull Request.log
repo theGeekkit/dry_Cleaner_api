@@ -1,0 +1,19 @@
+2023-06-10 10:15:19.148 [warning] C:\Users\sonof\.ssh\config: ENOENT: no such file or directory, open 'C:\Users\sonof\.ssh\config'
+2023-06-10 10:15:19.193 [info] TemporaryState> Error in initialization: Unable to delete nonexistent file 'vscode-userdata:/c:/Users/sonof/OneDrive/Documents/GitHub/dry_Cleaner_api/User/globalStorage/github.vscode-pull-request-github/temp'
+2023-06-10 10:15:19.303 [info] Looking for git repository
+2023-06-10 10:15:19.303 [info] Found 0 repositories during activation
+2023-06-10 10:15:19.303 [info] Git repository found, initializing review manager and pr tree view.
+2023-06-10 10:15:25.454 [info] Registering git provider
+2023-06-10 10:15:47.486 [info] Repository file:///c%3A/Users/sonof/OneDrive/Documents/GitHub/dry_Cleaner_api has been opened
+2023-06-10 10:15:47.486 [info] Review> Validate state in progress
+2023-06-10 10:15:47.486 [info] Review> Validating state...
+2023-06-10 10:15:47.487 [warning] No remotes found. The following remotes are missing: origin, upstream
+2023-06-10 10:15:47.487 [info] No GitHub remotes found for folder c:\Users\sonof\OneDrive\Documents\GitHub\dry_Cleaner_api
+2023-06-10 10:15:47.616 [info] Review> Validate state in progress
+2023-06-10 10:15:47.616 [info] Review> Validating state...
+2023-06-10 10:15:47.616 [info] Repo state for file:///c%3A/Users/sonof/OneDrive/Documents/GitHub/dry_Cleaner_api changed.
+2023-06-10 10:15:47.616 [info] Repo file:///c%3A/Users/sonof/OneDrive/Documents/GitHub/dry_Cleaner_api has already been setup.
+2023-06-10 10:15:47.627 [info] Found GitHub remote for folder c:\Users\sonof\OneDrive\Documents\GitHub\dry_Cleaner_api
+2023-06-10 10:15:48.070 [info] Review> No matching pull request metadata found locally for current branch master
+2023-06-10 10:15:48.070 [info] Review> no matching pull request metadata found for current branch master
+2023-06-10 10:15:48.368 [info] Review> No matching pull request metadata found on GitHub for current branch master
