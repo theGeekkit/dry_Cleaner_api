@@ -23,4 +23,5 @@ production:
   url: <%= ENV['DATABASE_URL'] %>
   username: postgres
   password: postgres
+  secret_key_base: e5cebc3868300ca50978b6467d6e12ee80faf87d8089243099540f7ea87d15c8129ecf74e3d3d9b1ce47b08df2a3d19f177f134c4f1bc2c3bc90d15ea21795ce
 
