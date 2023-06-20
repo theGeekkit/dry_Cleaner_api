@@ -168,6 +168,7 @@ PLATFORMS
 DEPENDENCIES
   bootsnap
   debug
+  nokogiri
   pg
   puma (~> 5.0)
   rack-cors
